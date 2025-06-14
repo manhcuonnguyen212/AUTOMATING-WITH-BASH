@@ -1,0 +1,10 @@
+ALERT: Critical error detected - 2025-06-14T19:02:25.454614+07:00 kali sshd[8382]: Disconnected from user kali 192.168.1.14 port 14590 .
+ALERT: Critical error detected - 2025-06-14T19:02:25.455255+07:00 kali sshd[8374]: pam_unix(sshd:session): session closed for user kali .
+ALERT: Critical error detected - 2025-06-14T19:02:28.056498+07:00 kali sshd[8457]: Accepted password for kali from 192.168.1.14 port 14604 ssh2 .
+ALERT: Critical error detected - 2025-06-14T19:02:28.063150+07:00 kali sshd[8457]: pam_unix(sshd:session): session opened for user kali(uid=1000) by kali(uid=0) .
+ALERT: Critical error detected - 2025-06-14T19:04:43.871113+07:00 kali sshd[8457]: syslogin_perform_logout: logout() returned an error .
+ALERT: Critical error detected - 2025-06-14T19:04:43.877213+07:00 kali sshd[8463]: Received disconnect from 192.168.1.14 port 14604:11: disconnected by user .
+ALERT: Critical error detected - 2025-06-14T19:04:43.878607+07:00 kali sshd[8463]: Disconnected from user kali 192.168.1.14 port 14604 .
+ALERT: Critical error detected - 2025-06-14T19:04:43.879086+07:00 kali sshd[8457]: pam_unix(sshd:session): session closed for user kali .
+ALERT: Critical error detected - 2025-06-14T19:04:46.520020+07:00 kali sshd[8598]: Accepted password for kali from 192.168.1.14 port 14607 ssh2 .
+ALERT: Critical error detected - 2025-06-14T19:04:46.523165+07:00 kali sshd[8598]: pam_unix(sshd:session): session opened for user kali(uid=1000) by kali(uid=0) .
