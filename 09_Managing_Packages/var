@@ -1,0 +1,5 @@
+ii  apache2                                        2.4.62-1                                 amd64        Apache HTTP Server
+ii  apache2-bin                                    2.4.62-1                                 amd64        Apache HTTP Server (modules and other binary files)
+ii  apache2-data                                   2.4.62-1                                 all          Apache HTTP Server (common files)
+ii  apache2-utils                                  2.4.62-1                                 amd64        Apache HTTP Server (utility programs for web servers)
+ii  libapache2-mod-php8.2                          8.2.27-1                                 amd64        server-side, HTML-embedded scripting language (Apache 2 module)
